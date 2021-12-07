@@ -1,0 +1,9 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210805/pngtree-modern-simple-elegant-cool-gradient-cream-landing-page-website-background-image_757446.jpg");
+    background-size: cover;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
